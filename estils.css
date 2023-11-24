@@ -1,0 +1,71 @@
+
+body {
+    font-family: 'Arial';
+}
+
+/* Estilos generales para la página */
+main {
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+/* Estilos para encabezados */
+h1, h2 {
+    color: black;
+    margin-top: 20px;
+}
+
+/* Estilos para párrafos */
+p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+/* Estilos para listas */
+ul {
+    margin-top: 20px;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* Estilos para enlaces */
+a {
+    color: black;
+    font-weight: bold;
+}
+
+/* Estilos para imágenes */
+img {
+    max-width: 100%;
+    margin-top: 20px;
+    height: auto;
+}
+
+/* Estilos para tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px black;
+    padding: 10px;;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+/* Estilos específicos para la página de videos */
+video {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 10px;
+}
